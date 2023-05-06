@@ -9,6 +9,7 @@ public class Class01 {
         //V5 kisa yolda commitgi
         //V6 calismalar yapiyorum.
         //V7 Yeni calismalar.
+        //Github degisiklikleri
 
 
 
