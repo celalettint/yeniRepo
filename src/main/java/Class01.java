@@ -4,6 +4,8 @@ public class Class01 {
 
         //V1 calismalarim...
         //V2 Uzerine calismalarim...
+        System.out.println("V3 kodlari...");
+
 
 
 
