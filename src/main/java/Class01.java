@@ -10,6 +10,7 @@ public class Class01 {
         //V6 calismalar yapiyorum.
         //V7 Yeni calismalar.
         //Github degisiklikleri
+        //Localden
 
 
 
