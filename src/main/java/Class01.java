@@ -7,6 +7,8 @@ public class Class01 {
         System.out.println("V3 kodlari...");
         //V4 kisa yolda commit
         //V5 kisa yolda commitgi
+        //V6 calismalar yapiyorum.
+
 
 
 
