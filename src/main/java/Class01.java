@@ -5,6 +5,11 @@ public class Class01 {
         //V1 calismalarim...
         //V2 Uzerine calismalarim...
         System.out.println("V3 kodlari...");
+        //V4 kisa yolda commit
+        //V5 kisa yolda commitgi
+
+
+
 
 
 
